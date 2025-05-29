@@ -1,7 +1,7 @@
-@import '../libs/btn/anim-menu-btn.css';
+@import '..anim-menu-btn.css';
 
-@import '../css/vars.css';
-@import '../css/grid.css';
+@import '..vars.css';
+@import '..grid.css';
 
 * {
 	margin: 0;
@@ -17,24 +17,24 @@ html, body {
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(../fonts/Montserrat-Regular.woff2);
+	src: url(../Montserrat-Regular.woff2);
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(../fonts/Montserrat-Bold.woff2);
+	src: url(../Montserrat-Bold.woff2);
 	font-weight: 700;
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(../fonts/Montserrat-Black.woff2);
+	src: url(../Montserrat-Black.woff2);
 	font-weight: 900;
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(../fonts/Montserrat-SemiBold.woff2);
+	src: url(../Montserrat-SemiBold.woff2);
 	font-weight: 600;
 }
 
