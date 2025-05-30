@@ -17,24 +17,24 @@ html, body {
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(Montserrat-Regular.woff2);
+	src: url(https://nikitaarepe192.github.io/DavidCos/Montserrat-Regular.woff2);
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(Montserrat-Bold.woff2);
+	src: url(https://nikitaarepe192.github.io/DavidCos/Montserrat-Bold.woff2);
 	font-weight: 700;
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(Montserrat-Black.woff2);
+	src: url(https://nikitaarepe192.github.io/DavidCos/Montserrat-Black.woff2);
 	font-weight: 900;
 }
 
 @font-face {
 	font-family: montserrat-g;
-	src: url(Montserrat-SemiBold.woff2);
+	src: url(https://nikitaarepe192.github.io/DavidCos/Montserrat-SemiBold.woff2);
 	font-weight: 600;
 }
 
